@@ -1,0 +1,7 @@
+## Title: Hide Objectives
+## Interface: 90001
+## Notes: Turn-key AddOn that hides the objectives tracker frame by default while allowing a keybind to be set to toggle it visible.
+## Version: 1.1.4-release
+## Author: Nathe (https://www.curseforge.com/members/strudelvendor)
+
+HideObjectives.lua
